@@ -121,11 +121,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <Image Include="1.png" />
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="drawMinRectANDCircle.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Area.cpp" />
-    <ClCompile Include="源.cpp" />
+    <Image Include="..\..\..\OneDrive - zju.edu.cn\Work_Space\vs_projects\Area\Area\1.png" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

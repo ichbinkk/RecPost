@@ -15,16 +15,16 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <Image Include="1.png">
+    <ClCompile Include="main.cpp">
       <Filter>源文件</Filter>
-    </Image>
+    </ClCompile>
+    <ClCompile Include="drawMinRectANDCircle.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Area.cpp">
+    <Image Include="..\..\..\OneDrive - zju.edu.cn\Work_Space\vs_projects\Area\Area\1.png">
       <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="源.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
+    </Image>
   </ItemGroup>
 </Project>
